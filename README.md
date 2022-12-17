@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadlanprabaswara&label=Profile%20views&color=0e75b6&style=flat" alt="fadlanprabaswara" /> </p>
 
+- 🔭 I am currently studying at Gunadarma University majoring in informatics **I am a graduate of a private high school in Bekasi City and I am currently studying at Gunadarma University majoring in Informatics. At the age of 20, I want to contribute more to this country. Armed with organizational experience since high school, I    want to be a person who is useful for the people around me. My current major is informatics and I focus on backend engineering and data scientists**
+
 - 📫 How to reach me **prabaswarafadlan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
